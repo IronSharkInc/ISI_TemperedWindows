@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="ISI-Tempered-Windows" />
+	<DisplayName value="ISI Tempered Windows" />
+	<Version value="2.2.0.0" />
+	<Description value="Makes windows 100x stronger. Still weaker than normal blocks (they are windows after all), but now they won't shatter when a zombie sneezes." />
+	<Author value="IronSharkInc" />
+	<Website value="https://github.com/IronSharkInc" />
+</xml>

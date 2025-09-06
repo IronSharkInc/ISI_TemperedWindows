@@ -1,0 +1,6 @@
+<IronSharkInc>
+
+    <setattribute xpath="//shape[contains(@name, 'window')]/property[@name='MaterialHitpointMultiplier' and @value='0.001']" name="value">0.1</setattribute>
+    <setattribute xpath="//shape[contains(@name, 'window')]/property[@class='UpgradeBlock']/property[@name='ItemCount' and @value='10000']" name="value">100</setattribute>
+
+</IronSharkInc>
