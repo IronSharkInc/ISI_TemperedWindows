@@ -35,3 +35,18 @@ Makes windows 100x stronger. Still weaker than normal blocks (they are windows a
 ![normal cobblestone](images/normal/3-cobblestone.png)
 ![normal concrete](images/normal/4-concrete.png)
 ![normal steel](images/normal/5-steel.png)
+
+## Testing
+
+1. Grab a stack of frameshapes, wood, cobblestone rocks, concrete mix, forged steel, and a nailgun
+2. Place 5 windows and upgrade to get one of each type
+3. Shoot each window once with nailgun
+4. Verify HP values match table:
+
+| Window Type | Expected HP |
+|-------------|-------------|
+| Frameshape  | 10          |
+| Wood        | 50          |
+| Cobblestone | 150         |
+| Concrete    | 500         |
+| Steel       | 1000        |
